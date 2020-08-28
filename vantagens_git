@@ -1,0 +1,5 @@
+Maior Rapidez no processo de commit e log, não sendo necessário contactar o servidor para cada etapa do processo.
+Autonomia para trabalhar desconectado gerando apenas ao final a atualização do repositório.
+Confiabilidade: É possível trabalhar em conjunto sem perder a fidelidade dos códigos, uma vez que a plataforma permite o versionamento identificando o momento exato de cada parte e data de alteração.
+Como um backup automático gerando redução de versões e versões dos código e perdas por serem sobrepostos devido ao trabalho em equipe.
+Redução de custos com o servidor: utiliza-se um repositório central diminuindo os custos com servidores locais para armazenar o fonte devido as suas diversas atualizações.
